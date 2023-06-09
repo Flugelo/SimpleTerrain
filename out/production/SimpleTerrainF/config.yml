@@ -1,0 +1,19 @@
+#╭━━━╮╱╱╱╱╱╱╱╱╱╱╭╮╱╱╱╱╱╭━━━━╮╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╭━━━╮
+#┃╭━╮┃╱╱╱╱╱╱╱╱╱╱┃┃╱╱╱╱╱┃╭╮╭╮┃╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱┃╭━━╯
+#┃╰━━╮╭╮╭╮╭╮╭━━╮┃┃╱╭━━╮╰╯┃┃╰╯╭━━╮╭━╮╭━╮╭━━╮╭╮╭━━╮┃╰━━╮
+#╰━━╮┃┣┫┃╰╯┃┃╭╮┃┃┃╱┃┃━┫╱╱┃┃╱╱┃┃━┫┃╭╯┃╭╯┃╭╮┃┣┫┃╭╮┃┃╭━━╯
+#┃╰━╯┃┃┃┃┃┃┃┃╰╯┃┃╰╮┃┃━┫╱╱┃┃╱╱┃┃━┫┃┃╱┃┃╱┃╭╮┃┃┃┃┃┃┃┃┃╱╱╱
+#╰━━━╯╰╯╰┻┻╯┃╭━╯╰━╯╰━━╯╱╱╰╯╱╱╰━━╯╰╯╱╰╯╱╰╯╰╯╰╯╰╯╰╯╰╯╱╱╱
+#╱╱╱╱╱╱╱╱╱╱╱┃┃╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱
+#╱╱╱╱╱╱╱╱╱╱╱╰╯╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱
+#Plugin desenvolvido por: DevFlugelo
+#Plugin é simples e leve, para servidores com pouca ram disponivel.
+Config:
+  #Quantidade de chunk o jogador vai poder claimar;
+  amount: 4
+  #Quantiade de amigos que o jogador pode colocar no terreno;
+  friends: 10
+
+mensage:
+  Claimed: "&aTerreno: &eEssa chunk foi claimado com sucesso!"
+  usageClaim: "&aTerreno: &cEssa chunk ja foi claimada por outro jogador."

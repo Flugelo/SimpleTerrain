@@ -1,0 +1,16 @@
+name: SimpleTerrainF
+version: 1.4
+main: me.flugel.simpleterrain.Main
+api-version: 1.17
+commands:
+  terreno:
+    aliases: [tr]
+  claim:
+  unclaim:
+  trust:
+  untrust:
+  info:
+  chunk:
+  chunkall:
+  infoall:
+  unclaimall:
